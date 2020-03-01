@@ -16,7 +16,7 @@ load_data.py            -- Code used to load data from the LIDAR sensor and the 
 ```
 
 ### THOR Robot Configuration
-![THOR](/Results/robot.png)
+![THOR](/Results/robot.PNG)
 
 ### Results
 **Result on 1st Dataset**
