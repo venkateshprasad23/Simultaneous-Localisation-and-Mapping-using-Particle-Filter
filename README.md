@@ -15,9 +15,27 @@ p2_utils.py             -- Implementation of the Bresenham's Line Tracing Algori
 load_data.py            -- Code used to load data from the LIDAR sensor and the IMU Sensor
 ```
 
+### THOR Robot Configuration
+![THOR](/Results/robot.png)
+
 ### Results
+**Result on 1st Dataset**
 ![Result on 1st Dataset](/Results/SLAM_0.png)
-Format: ![Alt Text](url)
+
+**Result on 2nd Dataset**
+![Result on 2nd Dataset](/Results/SLAM_1.png)
+
+**Result on 3rd Dataset**
+![Result on 3rd Dataset](/Results/SLAM_2.png)
+
+**Result on 4th Dataset**
+![Result on 4th Dataset](/Results/SLAM_3.png)
+
+**Result on 5th Dataset**
+![Result on 5th Dataset](/Results/SLAM_5.png)
+
+
+
 
 
 
